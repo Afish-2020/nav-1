@@ -21,12 +21,13 @@ img {
   max-width: 100%;
   max-height: 100%;
 }
+
 body {
   background: #eee;
   min-width: 100vw;
   min-height: 100vh;
   padding: 1px;
-  background: url(background.1382cf8e.png) repeat-y 0 0 / 100%;
+  background: url(background.b694146e.png) repeat-y 0 0 / 100%;
 }
 .globalHeader {
   margin: 20px;
@@ -151,5 +152,3 @@ body {
   font-size: 14px;
   margin-top: 4px;
 }
-
-/*# sourceMappingURL=index.4d2b5289.css.map */
